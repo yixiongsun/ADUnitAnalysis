@@ -13,3 +13,8 @@ Create venv and install the following packages
 - statannotations
 - scikit-learn
 - pycircstat
+- decorator
+- nose
+- umap-learn
+
+## Description
